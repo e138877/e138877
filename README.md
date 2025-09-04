@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hello there 👋✨
 
-<!--
-**e138877/e138877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**![giphy](https://github.com/user-attachments/assets/f5f53d30-3116-4b6e-9382-9eab092f0542)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **I'm Enes, 👨‍💻🖤**
+
+- **I'm 17 years old and currently a `high school graduate` preparing for the university entrance exam (YKS). My goal is to study `Computer Engineering` and, hopefully, be able to attend a good university.**
+
+---
+
+### **I’m trying to improve myself in the following programming languages as much as possible:**
+
+- **``C#, C, C++``**
+- **``JavaScript``**
+- **``HTML, CSS``**
+- **``Python``**
+
+---
+
+### **You can reach me here:**
+
+> **Mail: enesakiz622@gmail.com**
+
+---
+
+### **Some random facts about me:**
+
+- As you can tell from the gif above, I’m a big fan of **Star Wars**.  
+- To me, **Silent Hill** is the best game series I’ve ever played **`(I especially love the 3rd game)`**.
+
+---
+
+**Thank you for taking the time to read this. I truly hope that one day I’ll have the chance to meet and connect with you. 👋**
