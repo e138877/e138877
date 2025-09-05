@@ -8,7 +8,7 @@
     
 ## Hello there 👋✨
 
-<p style="color:red;">Hello</p>
+<p style="color:red;font-size:50px">Hello</p>
 
 **![giphy](https://github.com/user-attachments/assets/f5f53d30-3116-4b6e-9382-9eab092f0542)**
 
