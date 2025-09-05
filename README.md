@@ -1,10 +1,12 @@
+<link rel="stylesheet" href="styles.css">
+
 ## Hello there 👋✨
 
 **![giphy](https://github.com/user-attachments/assets/f5f53d30-3116-4b6e-9382-9eab092f0542)**
 
 ---
 
-### **I'm Enes, 👨‍💻🖤**
+### <p class="head">**I'm Enes, 👨‍💻🖤**</p>
 
 - **I'm 17 years old and currently a `high school graduate` preparing for the university entrance exam (YKS). My goal is to study `Computer Engineering` and, hopefully, be able to attend a good university.**
 
