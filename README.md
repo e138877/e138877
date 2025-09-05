@@ -1,15 +1,18 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <link rel="stylesheet" href="styles.css">
-    </head>
+    
+<head>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    
 ## Hello there 👋✨
 
 **![giphy](https://github.com/user-attachments/assets/f5f53d30-3116-4b6e-9382-9eab092f0542)**
 
 ---
 
-### <p class="head">**I'm Enes, 👨‍💻🖤**</p>
+### **I'm Enes, 👨‍💻🖤**
 
 - **I'm 17 years old and currently a `high school graduate` preparing for the university entrance exam (YKS). My goal is to study `Computer Engineering` and, hopefully, be able to attend a good university.**
 
@@ -40,4 +43,6 @@
 **Thank you for taking the time to read this. I truly hope that one day I’ll have the chance to meet and connect with you. 👋**
 
 <!--saaa-->
+
+</body>
 </html>
