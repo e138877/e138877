@@ -1,14 +1,5 @@
-<!DOCTYPE html>
-<html>
-    
-<head>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    
-## Hello there 👋✨
 
-<p style="color:red;font-size:50px">Hello</p>
+## Hello there 👋✨
 
 **![giphy](https://github.com/user-attachments/assets/f5f53d30-3116-4b6e-9382-9eab092f0542)**
 
@@ -45,6 +36,3 @@
 **Thank you for taking the time to read this. I truly hope that one day I’ll have the chance to meet and connect with you. 👋**
 
 <!--saaa-->
-
-</body>
-</html>
